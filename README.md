@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lee Ter Qin</h1>
 <h3 align="center">A passionate Computer Sciences Student from Malaysia</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/92447767/197348481-fbb02771-6e15-49b0-8ab1-fbd7320b4145.png](https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jake1ee&label=Profile%20views&color=0e75b6&style=flat" alt="jake1ee" /> </p>
 
