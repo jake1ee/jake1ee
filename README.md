@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lee Ter Qin</h1>
 <h3 align="center">A passionate Computer Sciences Student from Malaysia</h3>
 
-<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw3YVA4c6etmgJBz5xFjPnvm&ust=1666539472017000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJiI1LyV9PoCFQAAAAAdAAAAABAJ](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)">
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/92447767/197348181-5078a650-20f7-4154-9a86-689e605576cc.png)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jake1ee&label=Profile%20views&color=0e75b6&style=flat" alt="jake1ee" /> </p>
 
