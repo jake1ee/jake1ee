@@ -3,7 +3,10 @@
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jake1ee&label=Profile%20views&color=0e75b6&style=flat" alt="jake1ee" /> </p>
+
+<p align="left"> <a href="https://twitter.com/jake1ee_02" target="blank"><img src="https://img.shields.io/twitter/follow/jake1ee_02?logo=twitter&style=for-the-badge" alt="jake1ee_02" /></a> </p>
 
 - 🌱 I’m currently learning **MySQL, Mobile Development**
 
@@ -17,6 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/jake1ee_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jake1ee_02" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lee ter qin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lee ter qin" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100008565733020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100008565733020" height="30" width="40" /></a>
 <a href="https://instagram.com/leetq.2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leetq.2002" height="30" width="40" /></a>
 </p>
 
