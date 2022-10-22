@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/jake1ee_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jake1ee_02" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lee ter qin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lee ter qin" height="30" width="40" /></a>
-<a href="[https://fb.com/lee ter qin](https://www.facebook.com/profile.php?id=100008565733020)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lee ter qin" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100008565733020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100008565733020" height="30" width="40" /></a>
 <a href="https://instagram.com/leetq.2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leetq.2002" height="30" width="40" /></a>
 </p>
 
