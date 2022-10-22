@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi 👋, I'mLee Ter Qin, A passionate Computer Sciences Student from Malaysia 👨‍💻 Studying at University Sains Malaysia (USM) since 2021 🚀</div>  
+### <div align="center">Hi 👋, I'm Lee Ter Qin, A passionate Computer Sciences Student from Malaysia 👨‍💻 Studying at University Sains Malaysia (USM) since 2021 🚀</div>  
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
 
@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning MySQL, Application Software Development and Web Development  
   
 
-- 📫 How to reach me leecyeye728@gmail.com  
+- 📫 How to reach me <a hrer="mailto:leecyeye728@gmail.com"  target="_blank">Mail to Ter Qin </a>
   
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1EQUQK4efgE4iU9-cCnk9JDMxwIETC7UK/view?usp=sharing](https://drive.google.com/file/d/1EQUQK4efgE4iU9-cCnk9JDMxwIETC7UK/view?usp=sharing)
