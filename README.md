@@ -22,7 +22,7 @@
 - 📫 How to reach me <a href="mailto:leecyeye728@gmail.com"  target="_blank">Mail to Ter Qin </a>
   
 
-- 📄 Know about my experiences <a href ="https://drive.google.com/file/d/1EQUQK4efgE4iU9-cCnk9JDMxwIETC7UK/view?usp=sharing" target= "_blank">Resume</a>
+- 📄 Know about my experiences <a href ="https://drive.google.com/file/d/1pwRY3Cqd-8cGbTMyMgiFmDewhDe3WPlt/view?usp=share_link" target= "_blank">Resume</a>
 
 - ⚡ Fun fact **I like playing sport such as Basketball**
 <br/>  
